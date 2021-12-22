@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;600;800&display=swap');
+header {
+    background: #F0FFF0;
+}
+li.nav-item {
+    font-weight: 600;
+    font-family: 'Raleway';
+}
+.sign-in a {
+    background: #21B573;
+    border-radius: 20px;
+    color: white!important;
+    font-weight: 300;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+/*Menu Done*/
+/*Hero Start*/
+main {
+    background: #F0FFF0;
+    padding: 50px 0;
+}
+.red{
+    color: red;
+}
+.text h1 {
+    font-weight: bold;
+    font-family: 'Raleway';
+    letter-spacing: 1px;
+    font-size: 53px;
+}
+.text span {
+    color: #21B573;
+}
+.text p {
+    padding-top: 10px;
+    line-height: 2em;
+}
+.text button {
+    border: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    background: #21B573;
+    color: white;
+    letter-spacing: 0.5px;
+    margin-top: 10px;
+}
+/*section Start*/
+.image {
+    height: 100px;
+    width: 100px;
+}
+.box {
+    padding: 30px;
+    border: none;
+    background: #F0FFF0;
+}
+.box:hover {
+    
+    background: #ffffff;
+    box-shadow: 2px 12px 20px 2px lightgrey;
+}
+section {
+    margin: 50px 0;
+}
+h5.card-title {
+    margin-top: 20px;
+}
+/*Online Course Start*/
+.images {
+    padding: 20px;
+}
+.card {
+    border: none;
+    box-shadow: 2px 12px 20px 2px lightgrey;
+    margin: 5px;
+}
+button {
+    border: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    background: #21B573;
+    color: white;
+    letter-spacing: 0.5px;
+    margin-top: 10px;
+}
+.on-text {
+    margin-bottom: 30px;
+}
+
+.online-course {
+    padding: 50px 0;
+}
+.online-course h2{
+    font-family: 'Raleway';
+    font-weight: 800;
+}
+.see-all a {
+    color: #5e5d5d;
+    font-family: 'Raleway';
+    font-weight: 600;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.online-course h5 {
+    font-family: 'Raleway';
+    font-weight: 600;
+}
+.see-all i {
+    padding: 10px;
+}
+/*Online Course End*/
+/*Testimonial start*/
+.testimonial h2 {
+    font-family: 'Raleway';
+    font-weight: 800;
+    padding: 40px 0;
+}
+.pic img {
+    height: 100px;
+    width: 100px;
+}
+.imag img {
+    height: 100px;
+    margin: 20px;
+}
+.images {
+    padding: 20px;
+    font-family: 'Raleway';
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.images p {
+    margin: 30px 10px;
+}
+/*Testimonial end*/
+/*Footer*/
+.course a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-weight: 600;
+}
+.course h5 {
+    padding-bottom: 10px;
+    color: #ffffff;
+}
+.texts p {
+    font-family: 'Raleway';
+    font-weight: 600;
+    padding: 0px 40px;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+}
+footer {
+    padding: 50px 0;
+    background: #313131;
+    margin: 20px;
+    margin: 50px 0px 0px 0px;
+}
+p.text-center {
+    font-family: 'Raleway';
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding-top: 40px;
+    color: white;
+}
